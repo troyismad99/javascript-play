@@ -7,7 +7,7 @@
       "label": "Show in console",
       "type": "shell",
       "osx": {
-        "command": "~/.nvm/versions/node/v14.10.1/bin/node ${file}"
+        "command": "~/.nvm/versions/node/v15.5.0/bin/node ${file}"
       },
       "linux": {
         "command": "/usr/bin/node ${file}"

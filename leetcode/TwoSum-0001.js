@@ -47,6 +47,8 @@ function twoSum(nums, target) {
 }
 
 var setOne = [2,7,11,15];
+var WayneGretzky = "99";
 
-console.log(twoSum(setOne, 99));
+console.log(twoSum(setOne, 9));
+console.log(twoSum(setOne, WayneGretzky));
 
