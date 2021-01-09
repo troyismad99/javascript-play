@@ -2,4 +2,4 @@
 .DS_store
 
 # the tasks.json is machine dependenant
-.vscode
+#.vscode
