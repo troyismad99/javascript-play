@@ -1,5 +1,7 @@
 # Ignore Mac system files
 .DS_store
 
-# the tasks.json is machine dependenant
-#.vscode
+# the tasks.json is machine dependenant, just keep the template
+.vscode
+!.vscode/tasks.json.default
+
